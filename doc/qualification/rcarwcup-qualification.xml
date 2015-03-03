@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="en"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude">    
+    <info>
+        <title>Team Name</title>
+        <subtitle>Team Qualification Paper</subtitle>
+        <authorgroup>
+            <author>
+                <personname>
+                    <honorific></honorific>
+                    <surname>LeaderSurname</surname>
+                    <firstname>LeaderFirstname</firstname>        
+                </personname>    
+                <affiliation>
+                    <shortaffil></shortaffil>
+                    <jobtitle></jobtitle>
+                    <orgname></orgname>
+                    <orgdiv></orgdiv>
+                    <address>
+                        <email></email>
+                    </address>
+                </affiliation>
+                <address>
+                    <street></street>
+                    <city></city>
+                    <postcode></postcode>
+                    <country></country>
+                    <email></email>
+                    <otheraddr>
+                        <link xlink:href=""></link>
+                    </otheraddr>
+                </address>
+            </author>
+            <author>
+                <personname>
+                    <honorific></honorific>
+                    <surname>MemberSurname</surname>
+                    <firstname>MemberFirstname</firstname>        
+                </personname>    
+                <affiliation>
+                    <shortaffil></shortaffil>
+                    <jobtitle></jobtitle>
+                    <orgname></orgname>
+                    <orgdiv></orgdiv>
+                    <address>
+                        <email></email>
+                    </address>
+                </affiliation>
+                <address>
+                    <street></street>
+                    <city></city>
+                    <postcode></postcode>
+                    <country></country>
+                    <email></email>
+                    <otheraddr>
+                        <link xlink:href=""></link>
+                    </otheraddr>
+                </address>
+            </author>            
+        </authorgroup>
+        <pubdate>2014</pubdate>
+    </info>                                                                                                
+    <para>
+        Team logo:
+    </para>
+    <mediaobject>
+        <imageobject>
+            <imagedata fileref="" scale="45"/>
+        </imageobject>
+        <textobject>
+            <phrase>
+                Team logo
+            </phrase>
+        </textobject>
+    </mediaobject>    
+    <para>
+        Qualification video:
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>
+                <link xlink:href=""></link>
+            </para>
+        </listitem>
+    </itemizedlist>
+    <para>        
+        Under what license is your source code released?
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>
+            </para>
+        </listitem>
+    </itemizedlist>    
+    <para>
+        Where is your repo?
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>
+                <link xlink:href=""></link>
+            </para>
+        </listitem>
+    </itemizedlist>
+    <para>        
+        Please list the highlights of your project (one or two sentences per item).
+        <itemizedlist>
+            <listitem>
+                <para>
+                </para>
+            </listitem>
+            <listitem>
+                <para>
+                </para>
+            </listitem>
+            <listitem>
+                <para>
+                </para>
+            </listitem>
+        </itemizedlist>
+    </para>        
+</article>
