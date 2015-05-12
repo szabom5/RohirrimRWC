@@ -58,7 +58,7 @@ int main ( int argc, char* argv[] )
 
      if ( vm.count ( "help" ) ) {
           std::cout << "Robocar City Emulator and Robocar World Championship home page: https://code.google.com/p/robocar-emulator/" << std::endl;
-          std::cout << desc << std::endl;
+          std::cout << desc << std::endl; 		//felüldefiniált opertor<< options: name...
           std::cout << "Please report bugs to: nbatfai@gmail.com" << std::endl;
           return 0;
      }
@@ -99,8 +99,8 @@ int main ( int argc, char* argv[] )
 
      try {
           boost::asio::io_service io_service;
-          //myShmClient.start10 ( io_service, port.c_str() );
-	   myShmClient.start ( io_service, port.c_str() ); // 
+          myShmClient.start10 ( io_service, port.c_str() );
+	  			//myShmClient.start ( io_service, port.c_str() );  
      } catch ( std::exception& e ) {
           std::cerr << "Exception: " << e.what() << "\n";
      }

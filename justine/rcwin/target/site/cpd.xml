@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pmd-cpd>
 <duplication lines="79" tokens="485">
-<file line="146" path="/home/marianna/robocar-emulator/justine/rcwin/src/main/java/justine/robocar/CarWindow.java"/>
-<file line="270" path="/home/marianna/robocar-emulator/justine/rcwin/src/main/java/justine/robocar/CarWindow.java"/>
+<file line="146" path="/home/marianna/RohirrimRWC/RohirrimRWC/justine/rcwin/src/main/java/justine/robocar/CarWindow.java"/>
+<file line="270" path="/home/marianna/RohirrimRWC/RohirrimRWC/justine/rcwin/src/main/java/justine/robocar/CarWindow.java"/>
 <codefragment>
 <![CDATA[
                     int time = 0, size = 0, minutes = 0;
